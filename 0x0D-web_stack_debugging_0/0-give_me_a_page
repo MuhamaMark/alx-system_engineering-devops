@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Fixes the issue with the web server
+service apache start
